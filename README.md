@@ -2,11 +2,11 @@
 
 Animal species detection using yolov5
 
-#Dataset
+# Dataset
 
 https://drive.google.com/drive/folders/1xBHb2l4Z70Z-oPXHR3QvZF3iaYZnSGx-?usp=sharing
 
-#Preparing the data
+# Preparing the data
 
 Different classes are collected(labelled)
 
