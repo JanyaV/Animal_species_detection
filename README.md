@@ -59,3 +59,8 @@ Mark the given config files as required
 The training of model is done with image size 415, batch size - 31, epochs -100
 
 Weights of yolov5s is given
+
+# Predictions(results)
+
+![download](https://github.com/JanyaV/Animal_species_detection/assets/144340433/c5e0865c-86c2-4b1e-a3ad-267843d74954)
+
